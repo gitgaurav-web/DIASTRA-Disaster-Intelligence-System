@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+sqlalchemy
+pydantic
+psycopg2-binary
+requests
+psycopg
+joblib
+pandas
+scikit-learn==1.8.0
