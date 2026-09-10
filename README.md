@@ -128,12 +128,12 @@ uvicorn main:app --reload --port 8000
 
 | Avatar | Member | Role | GitHub Profile |
 | :---: | :--- | :--- | :---: |
-| <img src="https://github.com/gitgaurav-web.png" width="65px" style="border-radius:50%;" alt="Gaurav"/> | **Gaurav** | 👑 Team Lead / Full Stack | [@gitgaurav-web](https://github.com/gitgaurav-web) |
+| <img src="https://github.com/gitgaurav-web.png" width="65px" style="border-radius:50%;" alt="Gaurav"/> | **Gaurav** | 💻 Team Member / Full Stack | [@gitgaurav-web](https://github.com/gitgaurav-web) |
 | <img src="https://github.com/indraprakash-756.png" width="65px" style="border-radius:50%;" alt="Indraprakash"/> | **Indra Prakash** | 💻 Team Member / Developer | [@indraprakash-756](https://github.com/indraprakash-756) |
 | <img src="https://github.com/kanishkajoshi32161.png" width="65px" style="border-radius:50%;" alt="Kanishka"/> | **Kanishka Joshi** | 💻 Team Member / Developer | [@kanishkajoshi32161](https://github.com/kanishkajoshi32161) |
 | <img src="https://github.com/kavya-DD.png" width="65px" style="border-radius:50%;" alt="Kavya"/> | **Kavya** | 💻 Team Member / Developer | [@kavya-DD](https://github.com/kavya-DD) |
 | <img src="https://github.com/Manas-uk.png" width="65px" style="border-radius:50%;" alt="Manas"/> | **Manas Singh** | 💻 Team Member / Developer | [@Manas-uk](https://github.com/Manas-uk) |
-| <img src="https://github.com/utsaw-ik.png" width="65px" style="border-radius:50%;" alt="Utsaw"/> | **Utsaw** | 💻 Team Member / Developer | [@utsaw-ik](https://github.com/utsaw-ik) |
+| <img src="https://github.com/utsaw-ik.png" width="65px" style="border-radius:50%;" alt="Utsaw"/> | **Utsaw** | 👑 Team Lead / Developer | [@utsaw-ik](https://github.com/utsaw-ik) |
 
 </div>
 
